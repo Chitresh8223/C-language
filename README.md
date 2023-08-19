@@ -1,2 +1,2 @@
 # C-language
-Code for CPP languange
+Code for C languange
